@@ -1,0 +1,28 @@
+D:\KPZ_VT221\lab-1\proj_v1\obj\Debug\net8.0\proj_v1.GeneratedMSBuildEditorConfig.editorconfig
+D:\KPZ_VT221\lab-1\proj_v1\obj\Debug\net8.0\proj_v1.AssemblyInfoInputs.cache
+D:\KPZ_VT221\lab-1\proj_v1\obj\Debug\net8.0\proj_v1.AssemblyInfo.cs
+D:\KPZ_VT221\lab-1\proj_v1\obj\Debug\net8.0\proj_v1.csproj.CoreCompileInputs.cache
+D:\KPZ_VT221\lab-1\proj_v1\bin\Debug\net8.0\proj_v1.exe
+D:\KPZ_VT221\lab-1\proj_v1\bin\Debug\net8.0\proj_v1.deps.json
+D:\KPZ_VT221\lab-1\proj_v1\bin\Debug\net8.0\proj_v1.runtimeconfig.json
+D:\KPZ_VT221\lab-1\proj_v1\bin\Debug\net8.0\proj_v1.dll
+D:\KPZ_VT221\lab-1\proj_v1\bin\Debug\net8.0\proj_v1.pdb
+D:\KPZ_VT221\lab-1\proj_v1\obj\Debug\net8.0\proj_v1.dll
+D:\KPZ_VT221\lab-1\proj_v1\obj\Debug\net8.0\refint\proj_v1.dll
+D:\KPZ_VT221\lab-1\proj_v1\obj\Debug\net8.0\proj_v1.pdb
+D:\KPZ_VT221\lab-1\proj_v1\obj\Debug\net8.0\proj_v1.genruntimeconfig.cache
+D:\KPZ_VT221\lab-1\proj_v1\obj\Debug\net8.0\ref\proj_v1.dll
+d:\Дизайн Патерн\lab 1\proj_v1\bin\Debug\net8.0\proj_v1.exe
+D:\Дизайн Патерн\lab 1\proj_v1\bin\Debug\net8.0\proj_v1.deps.json
+D:\Дизайн Патерн\lab 1\proj_v1\bin\Debug\net8.0\proj_v1.runtimeconfig.json
+d:\Дизайн Патерн\lab 1\proj_v1\bin\Debug\net8.0\proj_v1.dll
+d:\Дизайн Патерн\lab 1\proj_v1\bin\Debug\net8.0\proj_v1.pdb
+d:\Дизайн Патерн\lab 1\proj_v1\obj\Debug\net8.0\proj_v1.GeneratedMSBuildEditorConfig.editorconfig
+d:\Дизайн Патерн\lab 1\proj_v1\obj\Debug\net8.0\proj_v1.AssemblyInfoInputs.cache
+d:\Дизайн Патерн\lab 1\proj_v1\obj\Debug\net8.0\proj_v1.AssemblyInfo.cs
+d:\Дизайн Патерн\lab 1\proj_v1\obj\Debug\net8.0\proj_v1.csproj.CoreCompileInputs.cache
+d:\Дизайн Патерн\lab 1\proj_v1\obj\Debug\net8.0\proj_v1.dll
+d:\Дизайн Патерн\lab 1\proj_v1\obj\Debug\net8.0\refint\proj_v1.dll
+d:\Дизайн Патерн\lab 1\proj_v1\obj\Debug\net8.0\proj_v1.pdb
+D:\Дизайн Патерн\lab 1\proj_v1\obj\Debug\net8.0\proj_v1.genruntimeconfig.cache
+D:\Дизайн Патерн\lab 1\proj_v1\obj\Debug\net8.0\ref\proj_v1.dll
