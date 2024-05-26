@@ -4,12 +4,12 @@
 
 Принцип DRY спрямований на зменшення повторення коду. Це видно в тому, як клас `Money` робить конвертацію між банкнотами і монетами.
 - **Відповідний код**: 
-  - [Program.cs](./Money.cs) - Рядки [3-11](./Money.cs#L3-L11)
+  - [Program.cs](./Program.cs) - Рядки [3-10](./Program.cs#L3-L10)
 
 ## 2. KISS (Keep It Simple, Stupid)
 
 Принцип KISS полягає у тому, що системи повинні бути максимально простими. Це видно у класі `Product`, який інкапсулює деталі продукту зрозумілим чином.
-- **Відповідний код**: [Product.cs](./Product.cs) - Рядки [3-9](./Product.cs#L3-L9)
+- **Відповідний код**: [Program.cs](./Program.cs) - Рядки [48-55](./Program.cs#L48-L55)
 
 ## 3. Принципи SOLID
 
@@ -17,14 +17,14 @@
 
 Кожен клас повинен виконувати лише одну задачу. Клас `Money` обробляє валюту, клас `Product` обробляє деталі продукту, а клас `Warehouse` обробляє інвентар.
 - **Відповідний код**:
-  - [Money.cs](./Money.cs)
-  - [Product.cs](./Product.cs)
-  - [Warehouse.cs](./Warehouse.cs)
+  - [Program.cs](./Program.cs) - Рядки [1-46](./Program.cs#L1-L46) (клас `Money`)
+  - [Program.cs](./Program.cs) - Рядки [48-76](./Program.cs#L48-L76) (клас `Product`)
+  - [Program.cs](./Program.cs) - Рядки [78-120](./Program.cs#L78-L120) (клас `Warehouse`)
 
 ### b. OCP (Open/Closed Principle)
 
 Класи повинні бути відкритими для розширення, але закритими для модифікації. Клас `Money` може бути розширений новими функціями без зміни існуючого коду.
-- **Відповідний код**: [Money.cs](./Money.cs)
+- **Відповідний код**: [Program.cs](./Program.cs) - Рядки [1-46](./Program.cs#L1-L46)
 
 ### c. LSP (Liskov Substitution Principle)
 
@@ -34,38 +34,36 @@
 
 Жоден код не повинен залежати від методів, які він не використовує. Класи `Product` і `Warehouse` не мають зайвих методів, які не відносяться до їх функціональності.
 - **Відповідний код**:
-  - [Product.cs](./Product.cs)
-  - [Warehouse.cs](./Warehouse.cs)
+  - [Program.cs](./Program.cs) - Рядки [48-76](./Program.cs#L48-L76) (клас `Product`)
+  - [Program.cs](./Program.cs) - Рядки [78-120](./Program.cs#L78-L120) (клас `Warehouse`)
 
 ### e. DIP (Dependency Inversion Principle)
 
-Cуть полягає у розриві зв'язності між програмними модулями вищого та нижчого рівнів за допомогою спільних абстракцій. Клас `Reporting` залежить від інтерфейсу `Warehouse`, що дозволяє легше вносити зміни та розширення.
+Суть полягає у розриві зв'язності між програмними модулями вищого та нижчого рівнів за допомогою спільних абстракцій. Клас `Reporting` залежить від класу `Warehouse`, що дозволяє легше вносити зміни та розширення.
 - **Відповідний код**: 
-  - [Reporting.cs](./Reporting.cs) - Рядки [3-5](./Reporting.cs#L3-L5)
+  - [Program.cs](./Program.cs) - Рядки [122-147](./Program.cs#L122-L147)
 
 ## 4. YAGNI (You Aren't Gonna Need It)
 
 Цей принцип стверджує, що функціонал не повинен додаватися до того, як він стане необхідним. Я застосував цей принцип під час написання коду.
 - **Відповідний код**:
-  - [Money.cs](./Money.cs)
-  - [Product.cs](./Product.cs)
-  - [Warehouse.cs](./Warehouse.cs)
-  - [Reporting.cs](./Reporting.cs)
+  - [Program.cs](./Program.cs) - Рядки [1-147](./Program.cs#L1-L147)
 
 ## 5. COI (Composition Over Inheritance)
 
 Цей принцип пропонує використовувати складання замість успадкування для досягнення поліморфізму. Клас `Product` використовує клас `Money` через складання, а не через успадкування.
 - **Відповідний код**: 
-  - [Product.cs](./Product.cs) - Рядки [6-8](./Product.cs#L6-L8)
+  - [Program.cs](./Program.cs) - Рядки [48-55](./Program.cs#L48-L55)
 
 ## 6. Program to Interfaces not Implementations
 
 Цей принцип продемонстровано через клас `Warehouse`, який може бути легко абстрагований до інтерфейсу, що дозволяє іншим класам взаємодіяти з ним, не знаючи його реалізації.
 - **Відповідний код**: 
-  - [Warehouse.cs](./Warehouse.cs)
+  - [Program.cs](./Program.cs) - Рядки [78-120](./Program.cs#L78-L120)
 
 ## 7. Fail Fast
 
 Клас `Money` кидає винятки одразу при спробі виконання недійсних операцій, наприклад, при встановленні від'ємного значення для монет.
 - **Відповідний код**: 
-  - [Money.cs](./Money.cs) - Рядки [17-20](./Money.cs#L17-L20)
+  - [Program.cs](./Program.cs) - Рядки [19-22](./Program.cs#L19-L22)
+
