@@ -1,0 +1,15 @@
+d:\Дизайн Патерн\lab-1\bin\Debug\net8.0\lab-1.exe
+D:\Дизайн Патерн\lab-1\bin\Debug\net8.0\lab-1.deps.json
+D:\Дизайн Патерн\lab-1\bin\Debug\net8.0\lab-1.runtimeconfig.json
+d:\Дизайн Патерн\lab-1\bin\Debug\net8.0\lab-1.dll
+d:\Дизайн Патерн\lab-1\bin\Debug\net8.0\lab-1.pdb
+d:\Дизайн Патерн\lab-1\obj\Debug\net8.0\lab-1.GeneratedMSBuildEditorConfig.editorconfig
+d:\Дизайн Патерн\lab-1\obj\Debug\net8.0\lab-1.AssemblyInfoInputs.cache
+d:\Дизайн Патерн\lab-1\obj\Debug\net8.0\lab-1.AssemblyInfo.cs
+d:\Дизайн Патерн\lab-1\obj\Debug\net8.0\lab-1.csproj.CoreCompileInputs.cache
+d:\Дизайн Патерн\lab-1\obj\Debug\net8.0\lab-1.sourcelink.json
+d:\Дизайн Патерн\lab-1\obj\Debug\net8.0\lab-1.dll
+d:\Дизайн Патерн\lab-1\obj\Debug\net8.0\refint\lab-1.dll
+d:\Дизайн Патерн\lab-1\obj\Debug\net8.0\lab-1.pdb
+D:\Дизайн Патерн\lab-1\obj\Debug\net8.0\lab-1.genruntimeconfig.cache
+D:\Дизайн Патерн\lab-1\obj\Debug\net8.0\ref\lab-1.dll
