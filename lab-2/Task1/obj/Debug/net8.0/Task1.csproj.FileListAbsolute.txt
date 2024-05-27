@@ -1,0 +1,14 @@
+d:\Дизайн Патерн\lab-2\Task1\bin\Debug\net8.0\Task1.exe
+D:\Дизайн Патерн\lab-2\Task1\bin\Debug\net8.0\Task1.deps.json
+D:\Дизайн Патерн\lab-2\Task1\bin\Debug\net8.0\Task1.runtimeconfig.json
+d:\Дизайн Патерн\lab-2\Task1\bin\Debug\net8.0\Task1.dll
+d:\Дизайн Патерн\lab-2\Task1\bin\Debug\net8.0\Task1.pdb
+d:\Дизайн Патерн\lab-2\Task1\obj\Debug\net8.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+d:\Дизайн Патерн\lab-2\Task1\obj\Debug\net8.0\Task1.AssemblyInfoInputs.cache
+d:\Дизайн Патерн\lab-2\Task1\obj\Debug\net8.0\Task1.AssemblyInfo.cs
+d:\Дизайн Патерн\lab-2\Task1\obj\Debug\net8.0\Task1.csproj.CoreCompileInputs.cache
+d:\Дизайн Патерн\lab-2\Task1\obj\Debug\net8.0\Task1.dll
+d:\Дизайн Патерн\lab-2\Task1\obj\Debug\net8.0\refint\Task1.dll
+d:\Дизайн Патерн\lab-2\Task1\obj\Debug\net8.0\Task1.pdb
+D:\Дизайн Патерн\lab-2\Task1\obj\Debug\net8.0\Task1.genruntimeconfig.cache
+D:\Дизайн Патерн\lab-2\Task1\obj\Debug\net8.0\ref\Task1.dll
