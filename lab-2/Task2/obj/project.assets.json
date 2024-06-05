@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Дизайн Патерн\\lab-2\\Task2\\Task2.csproj",
+      "projectUniqueName": "D:\\KPZ_VT221\\lab-2\\Task2\\Task2.csproj",
       "projectName": "Task2",
-      "projectPath": "D:\\Дизайн Патерн\\lab-2\\Task2\\Task2.csproj",
+      "projectPath": "D:\\KPZ_VT221\\lab-2\\Task2\\Task2.csproj",
       "packagesPath": "C:\\Users\\Bohdan P\\.nuget\\packages\\",
-      "outputPath": "D:\\Дизайн Патерн\\lab-2\\Task2\\obj\\",
+      "outputPath": "D:\\KPZ_VT221\\lab-2\\Task2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Bohdan P\\AppData\\Roaming\\NuGet\\NuGet.Config"
