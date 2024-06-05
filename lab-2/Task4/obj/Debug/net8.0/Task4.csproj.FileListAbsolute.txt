@@ -1,0 +1,15 @@
+d:\KPZ_VT221\lab-2\Task4\bin\Debug\net8.0\Task4.exe
+D:\KPZ_VT221\lab-2\Task4\bin\Debug\net8.0\Task4.deps.json
+D:\KPZ_VT221\lab-2\Task4\bin\Debug\net8.0\Task4.runtimeconfig.json
+d:\KPZ_VT221\lab-2\Task4\bin\Debug\net8.0\Task4.dll
+d:\KPZ_VT221\lab-2\Task4\bin\Debug\net8.0\Task4.pdb
+d:\KPZ_VT221\lab-2\Task4\obj\Debug\net8.0\Task4.GeneratedMSBuildEditorConfig.editorconfig
+d:\KPZ_VT221\lab-2\Task4\obj\Debug\net8.0\Task4.AssemblyInfoInputs.cache
+d:\KPZ_VT221\lab-2\Task4\obj\Debug\net8.0\Task4.AssemblyInfo.cs
+d:\KPZ_VT221\lab-2\Task4\obj\Debug\net8.0\Task4.csproj.CoreCompileInputs.cache
+d:\KPZ_VT221\lab-2\Task4\obj\Debug\net8.0\Task4.sourcelink.json
+d:\KPZ_VT221\lab-2\Task4\obj\Debug\net8.0\Task4.dll
+d:\KPZ_VT221\lab-2\Task4\obj\Debug\net8.0\refint\Task4.dll
+d:\KPZ_VT221\lab-2\Task4\obj\Debug\net8.0\Task4.pdb
+D:\KPZ_VT221\lab-2\Task4\obj\Debug\net8.0\Task4.genruntimeconfig.cache
+D:\KPZ_VT221\lab-2\Task4\obj\Debug\net8.0\ref\Task4.dll
